@@ -31,16 +31,16 @@ https://www.youtube.com/watch?v=F9ZYor7WnvA
 </table>
 
 <table>
-<tr><td>Compile and Build:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Current directory content:</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>1.</td><td>libmpg123-0.dll</td></tr>
-<tr><td></td><td></td><td>2.</td><td>SDL2.dll</td></tr>
-<tr><td></td><td></td><td>3.</td><td>soundplayer.c</td></tr>
-<tr><td></td><td></td><td>4.</td><td>cashregister.mp3</td></tr>
-<tr><td></td><td></td><td>5.</td><td>Folder of sdl header files "./SDL2-2.0.3/*"</td></tr>
-<tr><td></td><td></td><td>6.</td><td>mpg123.h</td></tr>
-<tr><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Mp3 obtained from</td><td></td><td>http://eng.universal-soundbank.com/money.htm</td></tr>
-<tr><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Build, Command line</td><td></td><td>gcc.exe -L"." -lsdl2 -llibmpg123-0 -o soundplayer.exe soundplayer.c</td></tr>
+<tr><td><b>Compile and Build:</b></td><td></td><td></td><td></td></tr>
+<tr><td></td><td><b>Current directory content:</b></td><td></td></tr>
+<tr><td></td><td>1.</td><td>libmpg123-0.dll</td></tr>
+<tr><td></td><td>2.</td><td>SDL2.dll</td></tr>
+<tr><td></td><td>3.</td><td>soundplayer.c</td></tr>
+<tr><td></td><td>4.</td><td>cashregister.mp3</td></tr>
+<tr><td></td><td>5.</td><td>Folder of sdl header files "./SDL2-2.0.3/*"</td></tr>
+<tr><td></td><td>6.</td><td>mpg123.h</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td><b>Mp3 obtained from:</b></td><td>http://eng.universal-soundbank.com/money.htm</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td><b>Build, Command line:</b></td><td>gcc.exe -L"." -lsdl2 -llibmpg123-0 -o soundplayer.exe soundplayer.c</td></tr>
 </table>
